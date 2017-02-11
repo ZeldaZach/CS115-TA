@@ -1,8 +1,8 @@
 /*
-* Demo code for assignment 2 written by Zachary Halpern
-* © 2017 for deomonstration purposes only
-* http://github.com/ZeldaZach
-*/
+ * Demo code for assignment 2 written by Zachary Halpern
+ * © 2017 for deomonstration purposes only
+ * http://github.com/ZeldaZach
+ */
 
 #include <iostream>
 
@@ -19,13 +19,9 @@ int main()
 		for (int j = 0; j < size; j++)
 		{
 			if (i == j)
-			{
 				cout << "1 ";
-			}
 			else
-			{
 				cout << "0 ";
-			}
 		}
 		
 		cout << endl;

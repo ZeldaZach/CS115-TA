@@ -1,8 +1,8 @@
 /*
-* Demo code for assignment 1 written by Zachary Halpern
-* © 2017 for deomonstration purposes only
-* http://github.com/ZeldaZach
-*/
+ * Demo code for assignment 1 written by Zachary Halpern
+ * © 2017 for deomonstration purposes only
+ * http://github.com/ZeldaZach
+ */
 
 #include <iostream>
 
